@@ -1,2 +1,2 @@
-# Super-Resolution
-Super-Resolution
+# Image-Enhancement
+Image-Enhancement
